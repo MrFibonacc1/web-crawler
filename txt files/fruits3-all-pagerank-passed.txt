@@ -1,0 +1,306 @@
+Passed Test #102 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-824.html
+
+expected = 0.00037893100807835346
+result = 0.00037893100807835406
+
+
+Passed Test #103 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-447.html
+
+expected = 0.0006863668112428478
+result = 0.0006863668112428494
+
+
+Passed Test #104 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-956.html
+
+expected = 0.00037494959743370994
+result = 0.00037494959743371043
+
+
+Passed Test #105 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-11.html
+
+expected = 0.0034661029235745844
+result = 0.003466102923574586
+
+
+Passed Test #106 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-708.html
+
+expected = 0.0009044154961455318
+result = 0.000904415496145533
+
+
+Passed Test #107 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-976.html
+
+expected = 0.000621541107658296
+result = 0.0006215411076582963
+
+
+Passed Test #108 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-631.html
+
+expected = 0.001260528465897047
+result = 0.001260528465897048
+
+
+Passed Test #109 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-427.html
+
+expected = 0.00038146125152760407
+result = 0.00038146125152760434
+
+
+Passed Test #110 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-829.html
+
+expected = 0.0009243386697290604
+result = 0.0009243386697290641
+
+
+Passed Test #111 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-247.html
+
+expected = 0.0016169509524121889
+result = 0.0016169509524121878
+
+
+Passed Test #112 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-304.html
+
+expected = 0.000601345646285051
+result = 0.0006013456462850526
+
+
+Passed Test #113 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-734.html
+
+expected = 0.0009256590108483346
+result = 0.0009256590108483349
+
+
+Passed Test #114 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-384.html
+
+expected = 0.0006130484573423927
+result = 0.0006130484573423934
+
+
+Passed Test #115 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-283.html
+
+expected = 0.001404807191313819
+result = 0.0014048071913138193
+
+
+Passed Test #116 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-336.html
+
+expected = 0.0011719893270150706
+result = 0.001171989327015073
+
+
+Passed Test #117 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-270.html
+
+expected = 0.0006878141587590144
+result = 0.0006878141587590152
+
+
+Passed Test #118 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-2.html
+
+expected = 0.007789147788928366
+result = 0.007789147788928374
+
+
+Passed Test #119 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-831.html
+
+expected = 0.000934205008793536
+result = 0.0009342050087935383
+
+
+Passed Test #120 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-545.html
+
+expected = 0.00036433256450857295
+result = 0.00036433256450857344
+
+
+Passed Test #121 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-599.html
+
+expected = 0.0003572779895338757
+result = 0.00035727798953387615
+
+
+Passed Test #122 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-167.html
+
+expected = 0.0006266525939568709
+result = 0.0006266525939568722
+
+
+Passed Test #123 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-677.html
+
+expected = 0.0011669565360956748
+result = 0.001166956536095674
+
+
+Passed Test #124 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-527.html
+
+expected = 0.0008800856853953072
+result = 0.0008800856853953087
+
+
+Passed Test #125 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-867.html
+
+expected = 0.0009041675735686978
+result = 0.0009041675735686993
+
+
+Passed Test #126 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-181.html
+
+expected = 0.0009285858790353008
+result = 0.0009285858790353021
+
+
+Passed Test #127 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-476.html
+
+expected = 0.00037868825184347014
+result = 0.00037868825184346906
+
+
+Passed Test #128 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-88.html
+
+expected = 0.00036154881565245985
+result = 0.00036154881565245877
+
+
+Passed Test #129 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-369.html
+
+expected = 0.0009267558572206176
+result = 0.0009267558572206199
+
+
+Passed Test #130 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-165.html
+
+expected = 0.00037893100807835346
+result = 0.00037893100807835406
+
+
+Passed Test #131 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-500.html
+
+expected = 0.00039412951658697963
+result = 0.00039412951658697963
+
+
+Passed Test #132 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-280.html
+
+expected = 0.0012416361772056223
+result = 0.0012416361772056197
+
+
+Passed Test #133 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-74.html
+
+expected = 0.0007555388807594921
+result = 0.0007555388807594934
+
+
+Passed Test #134 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-767.html
+
+expected = 0.00035403699436723136
+result = 0.00035403699436723174
+
+
+Passed Test #135 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-782.html
+
+expected = 0.0003650058299508677
+result = 0.0003650058299508686
+
+
+Passed Test #136 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-975.html
+
+expected = 0.0006828198065451603
+result = 0.0006828198065451642
+
+
+Passed Test #137 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-40.html
+
+expected = 0.0035020438468089795
+result = 0.0035020438468089834
+
+
+Passed Test #138 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-109.html
+
+expected = 0.0006505739330362479
+result = 0.0006505739330362473
+
+
+Passed Test #139 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-72.html
+
+expected = 0.000871846259575672
+result = 0.0008718462595756728
+
+
+Passed Test #140 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-790.html
+
+expected = 0.00037868825184347014
+result = 0.00037868825184346906
+
+
+Passed Test #141 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-641.html
+
+expected = 0.0009630001141903188
+result = 0.0009630001141903208
+
+
+Passed Test #142 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-958.html
+
+expected = 0.0003626687511863686
+result = 0.0003626687511863692
+
+
+Passed Test #143 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-897.html
+
+expected = 0.0006310882750023343
+result = 0.0006310882750023356
+
+
+Passed Test #144 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-311.html
+
+expected = 0.00128697149153761
+result = 0.0012869714915376112
+
+
+Passed Test #145 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-348.html
+
+expected = 0.0003875298668373854
+result = 0.00038752986683738514
+
+
+Passed Test #146 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-903.html
+
+expected = 0.0003527449742692324
+result = 0.00035274497426923245
+
+
+Passed Test #147 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-26.html
+
+expected = 0.002206770271072067
+result = 0.0022067702710720756
+
+
+Passed Test #148 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-435.html
+
+expected = 0.0017639750290319542
+result = 0.0017639750290319566
+
+
+Passed Test #149 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-518.html
+
+expected = 0.0006204384807875251
+result = 0.000620438480787527
+
+
+Passed Test #150 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-260.html
+
+expected = 0.0006804529252609849
+result = 0.0006804529252609886
+
+
+Passed Test #151 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-256.html
+
+expected = 0.0007259866079278029
+result = 0.0007259866079278044
+
+
+Passed Test #152 checking page rank for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html
+
+expected = -1
+result = -1
+
+
